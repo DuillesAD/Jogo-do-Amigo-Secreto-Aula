@@ -8,7 +8,7 @@ Este é um simples projeto em JavaScript para sortear um nome aleatório de uma 
 - Sortear um nome aleatório da lista.
 
 ## 🚀 Como executar
-1. Abra o arquivo `http://127.0.0.1:5500/challenge-amigo-secreto_pt-main/index.html` em seu navegador.
+1. Abra o link `http://127.0.0.1:5500/challenge-amigo-secreto_pt-main/index.html` em seu navegador.
 
 ## 🛠️ Tecnologias utilizadas
 - HTML
