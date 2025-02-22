@@ -47,6 +47,6 @@ function sortearNome() {
     }
     
     const sorteado = amigos[Math.floor(Math.random() * amigos.length)];
-    alert(`O nome sorteado foi: ${sorteado}`);
+    alert(`Parabens o nome sorteado foi: ${sorteado}`);
 }
 document.querySelector(".button-draw").addEventListener("click", sortearNome);
